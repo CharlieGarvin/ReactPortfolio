@@ -11,7 +11,8 @@ function Home() {
             <h2> Hi, my name is Charlie</h2>
             <div className="prompt"> 
                 <p>
-                    Talk about what you like to do in code
+                    I am a new FullStack Developer that has recently finished a coding bootcamp at the University of Utah. I enjoy working on the front-end and being able to design how sites and applications look.
+                    I enjoy being able to use new libraries and get better with React and other front-end focused languages.
                 </p>
                 <LinkedInIcon />
                 <EmailIcon />
@@ -23,15 +24,15 @@ function Home() {
             <ol className="list">
                 <li className="item">
                     <h2>Front-End</h2>
-                    <span>Enter front end info</span>
+                    <span>enter front end info</span>
                 </li>
                 <li className="item">
                     <h2>Back-End</h2>
-                    <span> enter back end info</span>
+                    <span>enter back end info</span>
                 </li>
                 <li className="item">
                     <h2>Languages</h2>
-                    <span> enter languages known</span>
+                    <span> HTML, CSS, JS, Bootstrap, React</span>
                 </li>
             </ol>
         </div>
