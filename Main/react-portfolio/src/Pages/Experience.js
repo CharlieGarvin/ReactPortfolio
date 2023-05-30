@@ -9,14 +9,25 @@ function Experience() {
             <VerticalTimeline lineColor="#3e497a">
                 <VerticalTimelineElement
                 className="vertical-timeline-element--education"
+                date="2016 - 2020"
+                iconStyle={{background: "#3e497a, color: #fff"}}
+                icon={<SchoolIcon />}
+                >
+                    <h3 className="vertical-timeline-element-title">
+                        High School 
+                    </h3>
+                    <p>High School Deploma</p>
+                </VerticalTimelineElement>
+                <VerticalTimelineElement
+                className="vertical-timeline-element--education"
                 date="2022 - 2023"
                 iconStyle={{background: "#3e497a, color: #fff"}}
                 icon={<SchoolIcon />}
                 >
                     <h3 className="vertical-timeline-element-title">
-                        Enter Education info
+                       University of Utah Bootcamp
                     </h3>
-                    <p>Enter what degrees and awards from school</p>
+                    <h4>FullStack Developer Certificate</h4>
                 </VerticalTimelineElement>
             </VerticalTimeline>
         </div>

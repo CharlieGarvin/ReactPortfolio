@@ -11,7 +11,7 @@ function Home() {
             <h2> Hi, my name is Charlie</h2>
             <div className="prompt"> 
                 <p>
-                    I am a new FullStack Developer that has recently finished a coding bootcamp at the University of Utah. I enjoy working on the front-end and being able to design how sites and applications look.
+                    I am a new FullStack Developer that has recently finished a FullStack bootcamp at the University of Utah. I enjoy working on the front-end and being able to design how sites and applications look.
                     I enjoy being able to use new libraries and get better with React and other front-end focused languages.
                 </p>
                 <LinkedInIcon />
