@@ -21,7 +21,9 @@
     color: white;
 }
 
-.footer #logo {
+
+/* style profile picture */
+.footer img {
     width: 200px;
     height: 220px;
     border-radius: 50%;

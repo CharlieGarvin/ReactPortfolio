@@ -1,6 +1,6 @@
-import Proj1 from "../assests/uniquist.jpg";
-import Proj2 from "../assests/typeninja.png";
-import Proj3 from "../assests/MixStreamDemo.png";
+import Proj1 from "../assets/uniquist.jpg";
+import Proj2 from "../assets/typeninja.png";
+import Proj3 from "../assets/MixStreamDemo.png";
 
 export const ProjectList = [
     {

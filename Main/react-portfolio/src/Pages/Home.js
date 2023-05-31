@@ -30,7 +30,7 @@ function Home() {
                 </li>
                 <li className="item">
                     <h2>Back-End</h2>
-                    <span>The bootcamp I went through also taught of lots of back-end skills and languages some of those for example are: MySQL, NoSQL, JWT, and more.</span>
+                    <span>The bootcamp I went through also taught lots of back-end skills and languages some of those for example are: MySQL, NoSQL, JWT, and more.</span>
                 </li>
                 <li className="item">
                     <h2>Languages</h2>

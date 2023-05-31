@@ -29,6 +29,17 @@ function Experience() {
                     </h3>
                     <h4>FullStack Developer Certificate</h4>
                 </VerticalTimelineElement>
+                <VerticalTimelineElement
+                className="vertical-timeline-element--education"
+                date="Resume"
+                iconStyle={{background: "#3e497a, color: #fff"}}
+                icon={<SchoolIcon />}
+                >
+                    <h3 className="vertical-timeline-element-title">
+                       Here is my Resume!
+                    </h3>
+                    {/* <h4> add resume link here </h4> */}
+                </VerticalTimelineElement>
             </VerticalTimeline>
         </div>
     )
