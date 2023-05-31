@@ -21,6 +21,12 @@
     color: white;
 }
 
+.footer #logo {
+    width: 200px;
+    height: 220px;
+    border-radius: 50%;
+}
+
 @media only screen and (max-width: 600px) {
     .footer svg {
         font-size: 50px;
