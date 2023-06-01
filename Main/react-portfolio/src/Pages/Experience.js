@@ -38,7 +38,7 @@ function Experience() {
                     <h3 className="vertical-timeline-element-title">
                        Here is my Resume!
                     </h3>
-                    {/* <h4> add resume link here </h4> */}
+                    <h4><div><a href="https://docs.google.com/document/d/1XFf3IDAFdciPn56i9RNIbPjNeCEuzigeNrLY4G48kcA/edit?usp=sharing">Resume</a></div></h4>
                 </VerticalTimelineElement>
             </VerticalTimeline>
         </div>

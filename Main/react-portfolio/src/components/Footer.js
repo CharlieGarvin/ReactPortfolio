@@ -5,7 +5,7 @@ import "../styles/Footer.css";
 function Footer() {
     return( <div className="footer">
     <div className="socialMedia"> <LinkedInIcon /> </div>
-    <img id="logo" src="../assests/portfolio-pic.jPG" alt=""/>
+    <img id="logo" src="../assests/portfolio-pic.JPG" alt=""/>
     <p> &copy; 2023</p>
     </div>
   );

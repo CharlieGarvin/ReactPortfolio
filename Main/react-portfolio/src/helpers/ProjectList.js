@@ -1,6 +1,7 @@
 import Proj1 from "../assets/uniquist.jpg";
 import Proj2 from "../assets/typeninja.png";
 import Proj3 from "../assets/MixStreamDemo.png";
+import Proj4 from "../assets/note-taker.jpg";
 
 export const ProjectList = [
     {
@@ -17,5 +18,10 @@ export const ProjectList = [
         name: "MixStream",
         image: Proj3,
         skills: "This project tasked us mainly with using API's and getting information to display on a site. We made a site that gets movies and TV shows and displays were they are avaliable for streaming. The languages used were HTML, CSS, and JS mostly. I was on the backend of this project working with the imdb API to display the rating and reviews of either shows or movies."
+    },
+    {
+        name: "Note Taker",
+        image: Proj4,
+        skills: "This project tasked me with working on the functionality of this site. I had to add functionality so users can add, save, and delete notes they create."
     }
 ];
