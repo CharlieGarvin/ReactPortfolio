@@ -7,4 +7,4 @@ This is a portfolio I created with my newly learned React skills. It feautires s
 ![react-port](https://github.com/CharlieGarvin/ReactPortfolio/assets/119140410/92f22fc6-8e6a-4efc-bbb7-479c7456b073)
 
 ## Link
-https://charliegarvin.github.io/
+https://charliegarvin.github.io/ReactPortfolio/
