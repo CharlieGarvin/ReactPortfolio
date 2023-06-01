@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactPortfolio/static/css/main.0b24630b.css",
-    "main.js": "/ReactPortfolio/static/js/main.779bbacf.js",
+    "main.js": "/ReactPortfolio/static/js/main.997a671b.js",
     "static/js/787.a2cb61a6.chunk.js": "/ReactPortfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/MixStreamDemo.png": "/ReactPortfolio/static/media/MixStreamDemo.214c1d35b6cad07ab315.png",
     "static/media/typeninja.png": "/ReactPortfolio/static/media/typeninja.657d89b99d93974e783b.png",
@@ -9,11 +9,11 @@
     "static/media/note-taker.jpg": "/ReactPortfolio/static/media/note-taker.46466fd0b9e013fdb035.jpg",
     "index.html": "/ReactPortfolio/index.html",
     "main.0b24630b.css.map": "/ReactPortfolio/static/css/main.0b24630b.css.map",
-    "main.779bbacf.js.map": "/ReactPortfolio/static/js/main.779bbacf.js.map",
+    "main.997a671b.js.map": "/ReactPortfolio/static/js/main.997a671b.js.map",
     "787.a2cb61a6.chunk.js.map": "/ReactPortfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b24630b.css",
-    "static/js/main.779bbacf.js"
+    "static/js/main.997a671b.js"
   ]
 }
