@@ -24,4 +24,5 @@ export const ProjectList = [
         image: Proj4,
         skills: "This project tasked me with working on the functionality of this site. I had to add functionality so users can add, save, and delete notes they create."
     }
+    // TODO add readme generator
 ];
