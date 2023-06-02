@@ -42,4 +42,9 @@ function Home() {
     );
 }
 
+// add arrow pushing down
+// short paragraphs and get language list higher
+// make icon links work
+// make hotbar sticky
+
 export default Home;

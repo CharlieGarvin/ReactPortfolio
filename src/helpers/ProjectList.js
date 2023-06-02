@@ -25,4 +25,7 @@ export const ProjectList = [
         skills: "This project tasked me with working on the functionality of this site. I had to add functionality so users can add, save, and delete notes they create."
     }
     // TODO add readme generator
+    // style paragraphs and shorten font especially
+    // style title so it doesn't overlap with hotbar
+
 ];
